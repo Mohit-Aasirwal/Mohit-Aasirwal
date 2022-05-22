@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋,This is Mohit...
+I am very keen in Astronomy and Technology.
+I am currently pursuing Bachelor of Engineering in  INFORMATION TECHNOLOGY from IET-DAVV(Indore).
+My Current learnings include backend development and C++ programming language.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-aasirwal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
