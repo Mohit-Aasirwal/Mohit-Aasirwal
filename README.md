@@ -70,9 +70,7 @@ alt="Techy Mohit Latest Video" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=dXnB3iNBAOc
 " target="_blank"><img src="https://www.youtube.com/watch?v=dXnB3iNBAOc" 
 alt="Channel Introduction" width="240" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=T8zYaSOwnkA&list=PLmeLqyWFdiL16dWPvbmBGWSCY2YWd9Fpy
-" target="_blank"><img src="https://www.youtube.com/watch?v=T8zYaSOwnkA&list=PLmeLqyWFdiL16dWPvbmBGWSCY2YWd9Fpy" 
-alt="Start Learning Python with Me!" width="240" height="180" border="10" /></a>
+
 
 <!--
 **Mohit-Aasirwal/Mohit-Aasirwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
