@@ -1,4 +1,7 @@
-<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/1_phWJSOFTHkNSpvBQCIxYAg.gif" alt="Quasar Giphy"></img>
+Inline-style: 
+![alt text](https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/1_phWJSOFTHkNSpvBQCIxYAg.gif "Quasar GIF")
+
+
 <h1 align="center">Hi 👋, I'm Mohit Aasirwal</h1>
 <h3 align="center">A Cosmology Geek and Technology Enthusiast...</h3>
 
