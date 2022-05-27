@@ -1,4 +1,4 @@
-Inline-style: 
+
 ![alt text](https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/1_phWJSOFTHkNSpvBQCIxYAg.gif "Quasar GIF")
 
 
