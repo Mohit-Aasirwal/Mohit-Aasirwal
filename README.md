@@ -1,7 +1,3 @@
-### Hi there 👋,This is Mohit...
-I am very keen in Astronomy and Technology.
-I am currently pursuing Bachelor of Engineering in  INFORMATION TECHNOLOGY from IET-DAVV(Indore).
-My Current learnings include backend development and C++ programming language.
 
 <h1 align="center">Hi 👋, I'm Mohit Aasirwal</h1>
 <h3 align="center">A Cosmology Geek and Technology Enthusiast...</h3>
@@ -29,7 +25,12 @@ My Current learnings include backend development and C++ programming language.
 - 📫 How to reach me **mohitaasirwal@gmail.com**
 
 - ⚡ Fun fact **I think I am resourceful.**
-
+<br>
+<p>
+  I am very keen in <em>Astronomy and Technology</em>.
+  I am currently pursuing <strong>Bachelor of Engineering</strong> in  <b>INFORMATION TECHNOLOGY</b> from <u>IET-DAVV</u>(Indore).
+My Current learnings include backend development and C++ programming language.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aasirwalmohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aasirwalmohit" height="30" width="40" /></a>
