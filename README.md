@@ -64,7 +64,7 @@ My Current learnings include backend development and C++ programming language.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-aasirwal)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Also checkout My Youtube work :</h2>
-<a href="https://www.youtube.com/channel/UCj_0k9FSTb8Wzz60Mqlbc6A" alt="Techy Mohit"></a>
+<a href="https://www.youtube.com/channel/UCj_0k9FSTb8Wzz60Mqlbc6A" alt="Techy Mohit">Techy Mohit</a>
 
 
 <!--
