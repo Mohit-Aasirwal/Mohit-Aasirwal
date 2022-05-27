@@ -64,12 +64,9 @@ My Current learnings include backend development and C++ programming language.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-aasirwal)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Also checkout My Youtube work :</h2>
-<a href="https://www.youtube.com/watch?v=IIbwLlUU57c
-" target="_blank"><img src="https://www.youtube.com/watch?v=IIbwLlUU57c" 
-alt="Techy Mohit Latest Video" width="240" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=dXnB3iNBAOc
-" target="_blank"><img src="https://www.youtube.com/watch?v=dXnB3iNBAOc" 
-alt="Channel Introduction" width="240" height="180" border="10" /></a>
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=dXnB3iNBAOc.jpg)](https://www.youtube.com/watch?v=dXnB3iNBAOc)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=IIbwLlUU57c.jpg)](https://www.youtube.com/watch?v=IIbwLlUU57c)
+
 
 
 <!--
