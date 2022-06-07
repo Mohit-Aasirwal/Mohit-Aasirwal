@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/1_phWJSOFTHkNSpvBQCIxYAg.gif "Quasar GIF")
 
 
-<h1 align="center">Hi 👋, I'm Mohit Aasirwal</h1>
+<h1 align="center">Hola!👋, Soy Mohit Aasirwal</h1>
 <h3 align="center">A Cosmology Geek and Technology Enthusiast...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-aasirwal&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-aasirwal" /> </p>
