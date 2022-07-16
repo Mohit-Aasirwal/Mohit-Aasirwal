@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Vasudha Astronomy Club Website**
 
-- 🌱 I’m currently learning **Full-Stack Development and C++ programming language.**
+- 🌱 I’m currently learning **Full-Stack Development and JAVA programming language.**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
