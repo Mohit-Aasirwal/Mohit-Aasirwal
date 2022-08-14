@@ -32,7 +32,8 @@
 <p>
   I am very keen in <em>Astronomy and Technology</em>.
   I am currently pursuing <strong>Bachelor of Engineering</strong> in  <b>INFORMATION TECHNOLOGY</b> from <u>IET-DAVV</u>(Indore).
-My Current learnings include backend development and C++ programming language.
+My Current learnings include Frontend development and C++ programming language.I am currently learning DATA STRUCTURES AND ALGORITHMS in JAVA.
+
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
