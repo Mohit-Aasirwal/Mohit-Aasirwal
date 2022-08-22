@@ -1,5 +1,4 @@
-
-![alt text](https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/1_phWJSOFTHkNSpvBQCIxYAg.gif "Quasar GIF")
+<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/1_phWJSOFTHkNSpvBQCIxYAg.gif" alt='quasar GIF' style="width: 100%;">
 
 
 <h1 align="center">Hola!👋, Soy Mohit Aasirwal</h1>
