@@ -1,4 +1,4 @@
-<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/1_phWJSOFTHkNSpvBQCIxYAg.gif" alt='quasar GIF' style="align: center;" >
+<img src="https://i.gifer.com/origin/aa/aaaa299dde7d1d3f2b1010656203db27.gif" alt='quasar GIF' style="align: center;" >
 
 
 <h1 align="center">Hola!👋, Soy Mohit Aasirwal</h1>
