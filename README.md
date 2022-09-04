@@ -1,5 +1,5 @@
 <div style="align: center">
-<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/aaaa299dde7d1d3f2b1010656203db27.gif" alt='quasar GIF' style="align: center;" >
+<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/BH_AccretionDisk_Sim_Banner_360.gif" alt='quasar GIF' style="align: center;" >
 </div>
 
 <h1 align="center">Hola!👋, Soy Mohit Aasirwal</h1>
