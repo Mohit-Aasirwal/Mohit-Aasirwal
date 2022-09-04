@@ -1,5 +1,5 @@
 <div style="align: center">
-<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/BH_AccretionDisk_Sim_Banner_360.gif" alt='quasar GIF' style="align: center;" >
+<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/BH_AccretionDisk_Sim_Banner_360.gif" alt='quasar GIF' >
 </div>
 
 <h1 align="center">Hola!👋, Soy Mohit Aasirwal</h1>
@@ -32,7 +32,7 @@
 <p>
   I am very keen in <em>Astronomy and Technology</em>.
   I am currently pursuing <strong>Bachelor of Engineering</strong> in  <b>INFORMATION TECHNOLOGY</b> from <u>IET-DAVV</u>(Indore).
-My Current learnings include Frontend development and C++ programming language.I am currently learning DATA STRUCTURES AND ALGORITHMS in JAVA.
+My Current learnings include Full Stack MERN development and C++ programming language.I am currently learning DATA STRUCTURES AND ALGORITHMS in JAVA.
 
 </p>
 <h3 align="left">Connect with me:</h3>
