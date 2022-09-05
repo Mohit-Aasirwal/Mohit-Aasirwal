@@ -64,7 +64,7 @@ My Current learnings include Full Stack MERN development and C++ programming lan
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-aasirwal)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/ShivangM"><img src="https://activity-graph.herokuapp.com/graph?username=ShivangM&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mohit-Aasirwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h2>Also checkout My Youtube work :</h2>
 <a href="https://www.youtube.com/channel/UCj_0k9FSTb8Wzz60Mqlbc6A" alt="Techy Mohit">Techy Mohit</a>
