@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohit-aasirwal-478466223/](https://www.linkedin.com/in/mohit-aasirwal-478466223/)
 
-- 💬 Ask me about **nodejs, expressjs, github, Jquery**
+- 💬 Ask me about **expressJS, ReactJS, NextJS, MongoDB etc. Web technologies**
 
 - 📫 How to reach me **mohitaasirwal@gmail.com**
 
