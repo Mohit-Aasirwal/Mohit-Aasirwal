@@ -63,7 +63,6 @@ My Current learnings include Full Stack MERN development and C++ programming lan
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-aasirwal&" alt="mohit-aasirwal" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-aasirwal)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
 <a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mohit-Aasirwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
