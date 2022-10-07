@@ -5,7 +5,7 @@
 <h1 align="center">Hola!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"><br> Soy Mohit Aasirwal</h1>
 <h3 align="center">A Cosmology Geek and Technology Enthusiast...</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-aasirwal&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-aasirwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-aasirwal&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-aasirwal" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-aasirwal" alt="mohit-aasirwal" /></a> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
@@ -59,9 +59,8 @@ My Current learnings include Full Stack MERN development and C++ programming lan
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-aasirwal&show_icons=true&locale=en&layout=compact" alt="mohit-aasirwal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-aasirwal&show_icons=true&locale=en" alt="mohit-aasirwal" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-aasirwal&" alt="mohit-aasirwal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-aasirwal&show_icons=true&locale=en" alt="mustafa-azad025" /></p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
 <a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mohit-Aasirwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
