@@ -64,7 +64,7 @@ My Current learnings include Full Stack MERN development and C++ programming lan
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
 <a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mohit-Aasirwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-[![@mohitaasirwal's Holopin board](https://holopin.io/api/user/board?user=mohitaasirwal)]
+[![@mohitaasirwal's Holopin board](https://holopin.io/api/user/board?user=mohitaasirwal)](https://holopin.io/@mohitaasirwal)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
 <h2>Also checkout My Youtube work :</h2>
 <a href="https://www.youtube.com/channel/UCj_0k9FSTb8Wzz60Mqlbc6A" alt="Techy Mohit">Techy Mohit</a>
