@@ -62,13 +62,14 @@ My Current learnings include Full Stack MERN development and C++ programming lan
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-aasirwal&" alt="mohit-aasirwal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-aasirwal&show_icons=true&locale=en" alt="mustafa-azad025" /></p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png"><br>
 
 <a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mohit-Aasirwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits 
   Graph" /></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
-<h1 align='center'>Hacktoberfest 2022 </h1>
+<h1 align='center'>Hacktoberfest 2022 </h1><br>
+
 [![@mohitaasirwal's Holopin board](https://holopin.me/mohitaasirwal)](https://holopin.io/@mohitaasirwal)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
