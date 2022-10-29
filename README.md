@@ -1,6 +1,4 @@
-<div style="align: center">
-<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/BH_AccretionDisk_Sim_Banner_360.gif" alt='quasar GIF' >
-</div>
+
 
 <h1 align="center">Hola!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> Soy<br> 
 
@@ -33,6 +31,9 @@
 - ⚡ Fun fact **I think I am resourceful.**
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
+<div style="align: center">
+<img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/BH_AccretionDisk_Sim_Banner_360.gif" alt='quasar GIF' >
+</div>
 <p>
   I am very keen in <em>Astronomy and Technology</em>.
   I am currently pursuing <strong>Bachelor of Engineering</strong> in  <b>INFORMATION TECHNOLOGY</b> from <u>IET-DAVV</u>(Indore).
