@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hola!<img width="100%" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> Soy<br> 
+<h1 align="center">Hola!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> Soy<br><br> 
 
-<img src="giphy.gif" alt='quasar GIF' >
+<img width="100%" src="giphy.gif" alt='quasar GIF' >
 <br></h1>
 <h3 align="center">A Cosmology Geek and Technology Enthusiast...</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png">
