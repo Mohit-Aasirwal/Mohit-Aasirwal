@@ -2,7 +2,7 @@
 <img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/BH_AccretionDisk_Sim_Banner_360.gif" alt='quasar GIF' >
 </div>
 
-<h1 align="center">Hola!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"><br> Soy 
+<h1 align="center">Hola!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> Soy<br> 
 
 <img src="giphy(1).gif" alt='quasar GIF' ></h1>
 <h3 align="center">A Cosmology Geek and Technology Enthusiast...</h3>
