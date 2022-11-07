@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and JAVA programming language.**
 
-- 👯 I’m looking to collaborate on **Frontend Development**
+- 👯 I’m looking to collaborate on **Full-Stack Development**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **Learning DevOps**
 
 - 👨‍💻 All of my projects are available at [www.github.com/mohit-aasirwal](www.github.com/mohit-aasirwal)
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **mohitaasirwal@gmail.com**
 
-- ⚡ Fun fact **I think I am resourceful.**
+- ⚡ Fun fact **Dark Energy >> Gravity**
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <div style="align: center">
