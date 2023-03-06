@@ -12,9 +12,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <p align="left"> <a href="https://twitter.com/aasirwalmohit" target="blank"><img src="https://img.shields.io/twitter/follow/aasirwalmohit?logo=twitter&style=for-the-badge" alt="aasirwalmohit" /></a> </p>
 
-- 🔭 I’m currently working on **Vasudha Astronomy Club Website**
+- 🔭 I’m currently working at **LedgerChirp**
 
-- 🌱 I’m currently learning **Full-Stack Development and JAVA programming language.**
+- 🌱 I’m currently learning **Full-Stack Development and Blockchain**
 
 - 👯 I’m looking to collaborate on **Full-Stack Development**
 
