@@ -16,15 +16,13 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and Blockchain**
 
-- 👯 I’m looking to collaborate on **Full-Stack Development**
-
-- 🤝 I’m looking for help with **Learning DevOps**
+- 👯 I’m looking to collaborate on **Metaverse Development**
 
 - 👨‍💻 All of my projects are available at [www.github.com/mohit-aasirwal](www.github.com/mohit-aasirwal)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohit-aasirwal-478466223/](https://www.linkedin.com/in/mohit-aasirwal-478466223/)
 
-- 💬 Ask me about **expressJS, ReactJS, NextJS, MongoDB etc. Web technologies**
+- 💬 Ask me about **expressJS, ReactJS, NextJS, ThreeJS, MongoDB etc. Web technologies**
 
 - 📫 How to reach me **mohitaasirwal@gmail.com**
 
