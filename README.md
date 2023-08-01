@@ -35,8 +35,8 @@
 <p>
   I am very keen in <em>Astronomy and Technology</em>.
   I am currently pursuing <strong>Bachelor of Engineering</strong> in  <b>INFORMATION TECHNOLOGY</b> from <u>IET-DAVV</u>(Indore).
-My Current learnings include Full Stack MERN development and C++ programming language.I am currently learning DATA STRUCTURES AND ALGORITHMS in JAVA.
-
+  Interned at 2+ companies and developed some amazing products till now.
+  Looking for more opportunities...
 </p><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=500&color=F7F060&background=6D73FF00&center=true&width=435&lines=Connect+With+Me" alt="Typing SVG" /></a><br>
 <p align="left">
