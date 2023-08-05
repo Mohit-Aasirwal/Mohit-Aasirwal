@@ -67,7 +67,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%"><br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-Aasirwal)!
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-Aasirwal)
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <br><br><br>
@@ -80,18 +80,3 @@
 <h2>Also checkout My Youtube work :</h2>
 <a href="https://www.youtube.com/channel/UCj_0k9FSTb8Wzz60Mqlbc6A" alt="Techy Mohit">Techy Mohit</a>
 
-
-<!--
-**Mohit-Aasirwal/Mohit-Aasirwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
