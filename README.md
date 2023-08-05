@@ -67,8 +67,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%"><br>
 
-<a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mohit-Aasirwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits 
-  Graph" /></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-Aasirwal)!
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <br><br><br>
