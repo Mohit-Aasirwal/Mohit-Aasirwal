@@ -8,9 +8,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-aasirwal&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-aasirwal" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-aasirwal" alt="mohit-aasirwal" /></a> </p>
+<p align="left" style="border: 2px solid #000000; padding: 10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-aasirwal" alt="mohit-aasirwal" /></a> </p>
+  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
-<p align="left"> <a href="https://twitter.com/aasirwalmohit" target="blank"><img src="https://img.shields.io/twitter/follow/aasirwalmohit?logo=twitter&style=for-the-badge" alt="aasirwalmohit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aasirwalmohit" target="blank" style="border: 2px solid #000000; padding: 10px;"><img src="https://img.shields.io/twitter/follow/aasirwalmohit?logo=twitter&style=for-the-badge" alt="aasirwalmohit" style="border: 2px solid #000000; padding: 10px;" /></a> </p>
 
 - 🔭 I’m currently working at **LedgerChirp**
 
@@ -22,14 +23,14 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohit-aasirwal-478466223/](https://www.linkedin.com/in/mohit-aasirwal-478466223/)
 
-- 💬 Ask me about **expressJS, ReactJS, NextJS, ThreeJS, MongoDB etc. Web technologies**
+- 💬 Ask me about **NextJS, NestJS, expressJS, ThreeJS, MongoDB etc. and other web technologies in trend**
 
 - 📫 How to reach me **mohitaasirwal@gmail.com**
 
 - ⚡ Fun fact **Dark Energy >> Gravity**
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
-<div style="align: center">
+<div style="align: center" style="border: 2px solid #000000; padding: 10px;">
 <img src="https://github.com/Mohit-Aasirwal/Mohit-Aasirwal/blob/main/BH_AccretionDisk_Sim_Banner_360.gif" alt='quasar GIF' >
 </div>
 <p>
@@ -78,5 +79,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 
 <h2>Also checkout My Youtube work :</h2>
+<a href="[@codeonfire3](https://www.youtube.com/channel/UC1j99Qy_vT_Dq7RvSTLlzJg)" alt="Code on Fire">Code on Fire</a>
 <a href="https://www.youtube.com/channel/UCj_0k9FSTb8Wzz60Mqlbc6A" alt="Techy Mohit">Techy Mohit</a>
 
