@@ -79,6 +79,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 
 <h2>Also checkout My Youtube work :</h2>
-<a href="[@codeonfire3](https://www.youtube.com/channel/UC1j99Qy_vT_Dq7RvSTLlzJg)" alt="Code on Fire">Code on Fire</a>
+<div style="display:flex">
+  <a href="[@codeonfire3](https://www.youtube.com/channel/UC1j99Qy_vT_Dq7RvSTLlzJg)" alt="Code on Fire" style="padding: 20px">Code on Fire</a>
 <a href="https://www.youtube.com/channel/UCj_0k9FSTb8Wzz60Mqlbc6A" alt="Techy Mohit">Techy Mohit</a>
-
+</div>
