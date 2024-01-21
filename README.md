@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-aasirwal&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-aasirwal" /></p>
 
-<p align="left" style="border: 2px solid #000000; padding: 10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-aasirwal" alt="mohit-aasirwal" /></a> </p>
+<p align="left" style="border: 2px solid #000000; padding: 10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-aasirwal&https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15&margin-w=15" alt="mohit-aasirwal" /></a> </p>
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <p align="left"> <a href="https://twitter.com/aasirwalmohit" target="blank" style="border: 2px solid #000000; padding: 10px;"><img src="https://img.shields.io/twitter/follow/aasirwalmohit?logo=twitter&style=for-the-badge" alt="aasirwalmohit" style="border: 2px solid #000000; padding: 10px;" /></a> </p>
