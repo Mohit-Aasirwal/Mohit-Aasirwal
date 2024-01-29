@@ -65,7 +65,6 @@
 <div style="display:flex flex-direction:column">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-aasirwal&show_icons=true&locale=en&layout=compact" alt="mohit-aasirwal" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-aasirwal&" alt="mohit-aasirwal" /></p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-aasirwal&show_icons=true&locale=en" alt="mohit-aasirwal" /></p>
 </div>
