@@ -69,6 +69,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%"><br>
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-aasirwal&" alt="mohit-aasirwal" /></span>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%"><br>
 <span>
 <!-- ![some stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-Aasirwal) -->
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-Aasirwal" alt="mohit-aasirwal" />
