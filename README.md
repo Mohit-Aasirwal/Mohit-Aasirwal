@@ -40,6 +40,14 @@
   Looking for more opportunities...
 </p><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
+ <a href="https://github.com/mustafaazad03/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohit-aasirwal&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohit-aasirwal&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-aasirwal&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="mustafaazad03's contribution graph" />
+    </picture>
+  </a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=500&color=F7F060&background=6D73FF00&center=true&width=435&lines=Connect+With+Me" alt="Typing SVG" /></a><br>
 <div style="display:flex justify-content:center align-items:center">
 <p align="left">
