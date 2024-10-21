@@ -35,7 +35,7 @@
 <p>
   I am very keen in <em>Astronomy and Technology</em>.
   I am currently pursuing <strong>Bachelor of Engineering</strong> in  <b>INFORMATION TECHNOLOGY</b> from <u>IET-DAVV</u>(Indore).
-  Interned at 3+ companies and developed some amazing products till now.
+  Interned at 4+ companies and developed some amazing products till now. Currently Freelancing for various clients.
   Looking for more opportunities...
 </p><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
