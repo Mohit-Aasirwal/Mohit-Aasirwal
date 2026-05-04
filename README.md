@@ -47,7 +47,7 @@
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-aasirwal&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Mohit-Aasirwal's contribution graph" />
     </picture>
   </a>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=500&color=F7F060&background=6D73FF00&center=true&width=435&lines=Connect+With+Me" alt="Typing SVG" /></a><br>
 <div style="display:flex justify-content:center align-items:center">
 <p align="left">
@@ -75,7 +75,7 @@
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-aasirwal&show_icons=true&locale=en&layout=compact" alt="mohit-aasirwal" /></span>
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-aasirwal&show_icons=true&locale=en" alt="mohit-aasirwal" /></span>
  
-</div>
+</div> -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%"><br>
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-aasirwal&" alt="mohit-aasirwal" /></span>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%"><br>
